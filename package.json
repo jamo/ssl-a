@@ -1,0 +1,14 @@
+{
+  "name": "ssl-a+",
+  "version": "0.0.1",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "start": "micro -p 3001 ."
+  },
+  "main": "index.js",
+  "dependencies": {
+    "micro": "6.1.0"
+  }
+}
